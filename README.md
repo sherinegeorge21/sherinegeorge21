@@ -1,4 +1,4 @@
-👋 Hi, I’m Sherine George — a data scientist with a strong foundation in software engineering, machine learning, and business analytics. I hold a Master’s degree in Business Analytics from Carnegie Mellon University, and previously worked as a software engineer at a global investment bank.
+👋 Hi, I’m Sherine George — a senior data scientist with a strong foundation in software engineering, machine learning, and business analytics. I hold a Master’s degree in Business Analytics from Carnegie Mellon University, and previously worked as a software engineer at a global investment bank.
 
 🔧 My core skills include:
 
